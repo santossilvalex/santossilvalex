@@ -8,9 +8,10 @@ Atualmente cursando **Ciência de Dados** pela Faculdade Estácio (conclusão em
 * 🤖 **IA & Machine Learning:** Explorando os fundamentos de Data Science e Inteligência Artificial.
 
 ### 💻 Stack Tecnológica:
-* **Linguagens:** Python, SQL.
-* **BI & Dados:** Power BI, Excel, MySQL.
-* **Cloud:** AWS.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 📈 Experiência & Resultados:
 * Já atuei na otimização de fluxos de dados e gestão de risco, utilizando KPIs para agilizar cadastros e operações comerciais.
