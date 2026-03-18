@@ -20,6 +20,6 @@ Atualmente cursando **Ciência de Dados** pela Faculdade Estácio (conclusão em
 ---
 
 📫 **Vamos nos conectar?**
-* LinkedIn: [alexsantosilva](https://www.linkedin.com/in/alexsinantosilva/)
+* LinkedIn: [alexsantosilva](https://www.linkedin.com/in/alexsantosilva/)
 * Email: contato.alexsilva98@outlook.com
 * 🌍 Localização: Florianópolis, SC.
